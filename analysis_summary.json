@@ -1,0 +1,26 @@
+{
+  "rows": 173,
+  "success_rate": 0.688,
+  "best_model": "Logistic Regression",
+  "best_accuracy": 0.864,
+  "launch_sites": [
+    {
+      "LaunchSite": "CCAFS SLC 40",
+      "Launches": 83,
+      "SuccessRate": 0.6265060240963856,
+      "AvgPayload": 6911.373493975903
+    },
+    {
+      "LaunchSite": "KSC LC 39A",
+      "Launches": 73,
+      "SuccessRate": 0.726027397260274,
+      "AvgPayload": 7521.584931506849
+    },
+    {
+      "LaunchSite": "VAFB SLC 4E",
+      "Launches": 17,
+      "SuccessRate": 0.8235294117647058,
+      "AvgPayload": 7296.041176470588
+    }
+  ]
+}

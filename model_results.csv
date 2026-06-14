@@ -1,0 +1,5 @@
+Model,Test Accuracy
+Logistic Regression,0.864
+Support Vector Machine,0.818
+K-Nearest Neighbors,0.818
+Decision Tree,0.659
